@@ -4,4 +4,4 @@ Hello Everyone I am Arda and I am trying to develope myself on data science and 
 I am applying different tools and methods in order to thrive more on data. Some of the works shared here are implementation of common methods, examples. I am getting help from many online sources such as books, courses and videos. Even though, they are not perfect or unique I just wanted to show my work and be able to follow my progress. 
 
 Anomally detection on energy consumption data 
-[LSTM autoencoder](LstmAutoEncoder.ipynb)
+[LSTM autoencoder](anomalyDetectionEnergyConsumption)
