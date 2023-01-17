@@ -5,3 +5,5 @@ I am applying different tools and methods in order to thrive more on data. Some 
 
 Anomally detection on energy consumption data 
 [LSTM autoencoder](anomalyDetectionEnergyConsumption)
+
+[Practice projects directory](PracticeProjects) contains relatively smaller works and focused on single tool mostly. For example Exploring e bay car sales emphasizes usage of pandas.
