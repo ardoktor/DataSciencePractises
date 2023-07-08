@@ -1,4 +1,0 @@
-# Finding Unique Patterns 
-In this Project I had a homewrok which asks to find all possible *unique patterns* for a 4x4 matrix.
-For all possible combinations any pattern should be unique regardless of it's position.
-from single square to 16 square I tried to search for all patterns. 
